@@ -1,0 +1,6 @@
+rootProject.name = 'RootApp'
+
+include 'Fuze-App-1'
+include 'Fuze-App-2'
+include 'Fuze-App-3'
+include 'Fuze-App-4'
